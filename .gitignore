@@ -1,0 +1,15 @@
+__pycache__/
+model/
+pipe/
+processor/
+log.txt
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.aac
+*.m4a
+*.wma
+.env
+.venv/
+env/
