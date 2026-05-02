@@ -8,7 +8,6 @@ It is built with **FastAPI** for a robust, decoupled AI inference backend, and *
 - **Speech Recognition**: Transcribes spoken audio (WAV, MP3, FLAC, OGG, AAC, M4A) to text using HuggingFace's `Speech2Text` model.
 - **Microphone Support**: Record your voice directly in the browser to process it instantly.
 - **Real-time Translation**: Instantly translates transcriptions into Hindi, Urdu, French, Spanish, German, or Chinese using Meta's `M2M100` machine translation model.
-- **Dashboard UI**: A sleek, dark-themed dashboard interface built for professional use.
 
 ## 🛠️ Tech Stack
 - **Frontend**: Streamlit
