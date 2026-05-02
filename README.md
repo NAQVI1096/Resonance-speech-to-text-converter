@@ -12,7 +12,7 @@ It is built with **FastAPI** for a robust, decoupled AI inference backend, and *
 ## 🛠️ Tech Stack
 - **Frontend**: Streamlit
 - **Backend**: FastAPI, Uvicorn
-- **AI Models**: PyTorch, Transformers (HuggingFace)
+- **AI Models**: PyTorch
 - **Audio Processing**: Librosa, FFmpeg
 
 ## 📥 Installation
